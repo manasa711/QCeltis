@@ -334,6 +334,8 @@ Using the '--peptide_list' parameter, a user-defined list of peptides can be mon
 
 ## Cite
 
+Vegesna, M., Sundararaman, N., Bharadwaj, A., Washington, K., Pandey, R., Haghani, A., ... & Van Eyk, J. E. (2025). Enhancing Proteomics Quality Control: Insights from the Visualization Tool QCeltis. Journal of Proteome Research.
+
 ## Support
 
 If you encounter any bugs or issues, please help us improve QCeltis by creating a new issue at: https://github.com/csmc-vaneykjlab/QCeltis/issues. For any other queries, email us at GroupHeartBioinformaticsSupport@cshs.org.
