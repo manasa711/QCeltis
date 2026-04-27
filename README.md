@@ -1,4 +1,7 @@
 # QCeltis
+
+Manasa Vegesna, Van Eyk Lab, Cedars-Sinai Medical Center
+
 A python package developed for performing quality control analysis on large-scale DIA proteomics datasets. It was designed to enable detection of technical variability due to several factors such as sample collection, transportation, storage, preparation, and/or instrument performance, thus helping improve the accuracy of any biological interpretations of large-scale mass spectrometry-based proteomics data. It allows users to monitor quality control (QC) samples within and across different batches and helps create metrics and plots to not only easily depict outliers, but also to tease out potential causes of these outliers.
 
 ## Table of Contents
